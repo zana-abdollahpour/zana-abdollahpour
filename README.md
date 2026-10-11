@@ -2,12 +2,12 @@
 
 ### Full-Stack Developer
 
-I craft user-focused, performant web experiences using **JavaScript, TypeScript, React, and Next.js**. I'm passionate about building clean, scalable applications and continuously exploring emerging technologies.
+I craft user-focused, performant web experiences using **JavaScript, TypeScript, React, Next.js, Node.js, and NestJS**. I also work with **Go (Golang)** and enjoy building clean, scalable, and maintainable applications.
 
-I also hold an **MBA in Management**, combining technical expertise with a broader understanding of business and product strategy.
+I'm passionate about exploring emerging technologies and creating impactful solutions. I also hold an **MBA in Management**, combining technical expertise with business and product strategy.
 
 - 📫 **Email:** [zana.ap4@gmail.com](mailto:zana.ap4@gmail.com)
-- 🤝 **Open to collaboration:** React, Next.js, Node.js, and NestJS projects
+- 🤝 **Open to collaboration:** React, Next.js, Node.js, NestJS, and Go projects
 
 ---
 
@@ -22,6 +22,7 @@ I also hold an **MBA in Management**, combining technical expertise with a broad
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" /></a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go (Golang)" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
